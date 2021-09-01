@@ -1,0 +1,72 @@
+body {
+    font-family: "Montserrat", sans-serif;
+}
+.banner-container {
+    background-color: #b8b8b8;
+}
+.banner-column {
+    background-color: #697179;
+}
+.navbar-container {
+    background-color: #414654;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.about-container {
+    background-color: #4e4b4a;
+}
+.edu-container {
+    background-color: #34414e;
+}
+.form-btn {
+    color: white;
+}
+.form-btn:hover {
+    color: bisque;
+}
+.title {
+    color: #eacfad;
+}
+.circle {
+    background-color: #eacfad;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    text-align: center;
+    color: rgb(6, 9, 12);
+}
+.project-container {
+    background-color: #524144;
+}
+.images {
+    height: 250px;
+    width: 250px;
+}
+.form-container {
+    background-color: #213e57;
+}
+.inner-form {
+    background-color: #1d60a5;
+}
+.inner-form:hover {
+    background-color: white;
+    color: teal;
+}
+.footer {
+    background-color: #4e8099;
+}
+.icon {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: whitesmoke;
+    font-size: 40px;
+    text-align: center;
+    color: rgb(62, 57, 138);
+}
+.icon:hover{
+    color: white;
+    background-color: teal;
+}
